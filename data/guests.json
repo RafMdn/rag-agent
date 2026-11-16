@@ -1,0 +1,28 @@
+{
+    "guests_docs": [
+        {
+            "id": null,
+            "metadata": {
+                "name": "Ada Lovelace"
+            },
+            "page_content": "Name: Ada Lovelace\nRelation: best friend\nDescription: Lady Ada Lovelace is my best friend. She is an esteemed mathematician and friend. She is renowned for her pioneering work in mathematics and computing, often celebrated as the first computer programmer due to her work on Charles Babbage's Analytical Engine.\nEmail: ada.lovelace@example.com",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {
+                "name": "Dr. Nikola Tesla"
+            },
+            "page_content": "Name: Dr. Nikola Tesla\nRelation: old friend from university days\nDescription: Dr. Nikola Tesla is an old friend from your university days. He's recently patented a new wireless energy transmission system and would be delighted to discuss it with you. Just remember he's passionate about pigeons, so that might make for good small talk.\nEmail: nikola.tesla@gmail.com",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {
+                "name": "Marie Curie"
+            },
+            "page_content": "Name: Marie Curie\nRelation: no relation\nDescription: Marie Curie was a groundbreaking physicist and chemist, famous for her research on radioactivity.\nEmail: marie.curie@example.com",
+            "type": "Document"
+        }
+    ]
+}

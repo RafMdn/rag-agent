@@ -1,0 +1,100 @@
+{
+    "guests_docs": [
+        {
+            "page_content": "Name: Bruce Wayne\nRelation: close friend and benefactor\nDescription: Bruce Wayne is a billionaire philanthropist and owner of Wayne Enterprises. He is known for his charitable work across Gotham City and his commitment to improving the lives of its citizens. He is a private individual who often attends high-profile charity events.\nEmail: bruce.wayne@wayneenterprises.com",
+            "metadata": {
+                "name": "Bruce Wayne"
+            }
+        },
+        {
+            "page_content": "Name: Alfred Pennyworth\nRelation: family friend and trusted advisor\nDescription: Alfred Pennyworth is Bruce Wayne's loyal butler and closest confidant. A former British intelligence operative, he is highly resourceful, disciplined, and knowledgeable in medicine and security. He has spent decades managing Wayne Manor and supporting the Wayne family.\nEmail: alfred.pennyworth@wayneenterprises.com",
+            "metadata": {
+                "name": "Alfred Pennyworth"
+            }
+        },
+        {
+            "page_content": "Name: Barbara Gordon\nRelation: old friend and technology consultant\nDescription: Barbara Gordon is the daughter of Commissioner James Gordon and a highly skilled computer expert. Known for her intelligence and investigative abilities, she has helped coordinate information and support Gotham's vigilantes through her technical expertise.\nEmail: barbara.gordon@gcpd.gov",
+            "metadata": {
+                "name": "Barbara Gordon"
+            }
+        },
+        {
+            "page_content": "Name: Dick Grayson\nRelation: former colleague and family friend\nDescription: Dick Grayson is a former circus acrobat who became one of Gotham's most trusted crime fighters. He is charismatic, highly athletic, and experienced in detective work. He has maintained a close relationship with Bruce Wayne despite pursuing his own path as a protector of Bludhaven.\nEmail: dick.grayson@wayneenterprises.com",
+            "metadata": {
+                "name": "Dick Grayson"
+            }
+        },
+        {
+            "page_content": "Name: James Gordon\nRelation: professional acquaintance\nDescription: Commissioner James Gordon is a respected senior officer in the Gotham City Police Department. He has worked alongside Batman on numerous investigations and is known for his integrity and determination to combat corruption and organized crime in Gotham.\nEmail: james.gordon@gcpd.gov",
+            "metadata": {
+                "name": "James Gordon"
+            }
+        },
+        {
+            "page_content": "Name: Lucius Fox\nRelation: business associate\nDescription: Lucius Fox is the CEO of Wayne Enterprises and a brilliant engineer and business strategist. He oversees several advanced technology and research initiatives and has played an important role in developing innovative solutions for Gotham's infrastructure and public safety.\nEmail: lucius.fox@wayneenterprises.com",
+            "metadata": {
+                "name": "Lucius Fox"
+            }
+        },
+        {
+            "page_content": "Name: Selina Kyle\nRelation: complicated personal acquaintance\nDescription: Selina Kyle, also known as Catwoman, is a skilled thief with a strong sense of independence. She has a complicated relationship with Bruce Wayne and frequently operates between Gotham's criminal underworld and its wealthier social circles. She is intelligent, resourceful, and difficult to predict.\nEmail: selina.kyle@gothammail.com",
+            "metadata": {
+                "name": "Selina Kyle"
+            }
+        },
+        {
+            "page_content": "Name: Harvey Dent\nRelation: former professional ally\nDescription: Harvey Dent is Gotham's former district attorney, once celebrated for his campaign against organized crime and corruption. Following a tragic transformation, he became known as Two-Face, a criminal figure whose decisions are often governed by chance and duality. His history with Bruce Wayne and James Gordon remains significant.\nEmail: harvey.dent@gothammail.com",
+            "metadata": {
+                "name": "Harvey Dent"
+            }
+        },
+        {
+            "page_content": "Name: Oswald Cobblepot\nRelation: business acquaintance\nDescription: Oswald Cobblepot, known as the Penguin, is a powerful figure in Gotham's criminal underworld. He operates legitimate businesses as a public businessman while maintaining influence over various underground activities. He is sophisticated, calculating, and deeply interested in expanding his influence.\nEmail: oswald.cobblepot@iceberg-lounge.com",
+            "metadata": {
+                "name": "Oswald Cobblepot"
+            }
+        },
+        {
+            "page_content": "Name: Edward Nygma\nRelation: former acquaintance\nDescription: Edward Nygma, known as the Riddler, is an exceptionally intelligent criminal obsessed with puzzles, riddles, and intellectual challenges. He often leaves elaborate clues connected to his schemes and has a particular fascination with testing Batman's detective abilities.\nEmail: edward.nygma@gothammail.com",
+            "metadata": {
+                "name": "Edward Nygma"
+            }
+        },
+        {
+            "page_content": "Name: Pamela Isley\nRelation: environmental research contact\nDescription: Dr. Pamela Isley, known as Poison Ivy, is a botanist with extensive knowledge of plant biology and ecological systems. Her environmental activism has developed into an extreme mission to protect plant life, frequently bringing her into conflict with Gotham's authorities and Batman.\nEmail: pamela.isley@gothammail.com",
+            "metadata": {
+                "name": "Pamela Isley"
+            }
+        },
+        {
+            "page_content": "Name: Jonathan Crane\nRelation: former academic acquaintance\nDescription: Dr. Jonathan Crane, known as Scarecrow, is a former psychiatrist and psychology researcher whose work focused on fear. His experiments and obsession with psychological manipulation have made him one of Gotham's most notorious criminals.\nEmail: jonathan.crane@gothammail.com",
+            "metadata": {
+                "name": "Jonathan Crane"
+            }
+        },
+        {
+            "page_content": "Name: Dr. Harleen Quinzel\nRelation: medical professional acquaintance\nDescription: Dr. Harleen Quinzel, known as Harley Quinn, is a former psychiatrist who became an unpredictable figure in Gotham's criminal underworld. She is energetic, eccentric, and highly intelligent, with a complicated history involving the Joker.\nEmail: harleen.quinzel@gothammail.com",
+            "metadata": {
+                "name": "Harleen Quinzel"
+            }
+        },
+        {
+            "page_content": "Name: Basil Karlo\nRelation: entertainment industry acquaintance\nDescription: Basil Karlo, known as Clayface, is a former actor whose life took a dramatic turn after gaining shape-shifting abilities. His ability to imitate other people makes him an unusual and unpredictable presence in Gotham. His background in acting gives him a particular interest in cinema and theatrical performances.\nEmail: basil.karlo@gothammail.com",
+            "metadata": {
+                "name": "Basil Karlo"
+            }
+        },
+        {
+            "page_content": "Name: Victor Fries\nRelation: scientific research contact\nDescription: Dr. Victor Fries, known as Mr. Freeze, is a cryogenic scientist whose research became deeply personal after his wife Nora developed a serious illness. His expertise in low-temperature technology is extraordinary, although his methods have frequently brought him into conflict with Gotham's authorities.\nEmail: victor.fries@gothammail.com",
+            "metadata": {
+                "name": "Victor Fries"
+            }
+        },
+        {
+            "page_content": "Name: Joker\nRelation: hostile acquaintance\nDescription: The Joker is Gotham's most infamous criminal mastermind. Known for his chaotic personality, theatrical behavior, and obsession with Batman, he frequently creates elaborate schemes that challenge Gotham's authorities. His unpredictable nature makes him an extremely unusual guest.\nEmail: joker@gothammail.com",
+            "metadata": {
+                "name": "Joker"
+            }
+        }
+    ]
+}
